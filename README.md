@@ -18,3 +18,4 @@ To generate HTML coverage report:
 
 To generate JSON coverage report:
 `coverage json -q -o /dev/stdout`
+
