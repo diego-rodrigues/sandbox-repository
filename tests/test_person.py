@@ -15,7 +15,6 @@ class PersonTest(unittest.TestCase):
         self.assertEqual(self.p1.age, 0)
         self.assertEqual(self.p1.money, 0)
 
-
     def test_init_person_custom_age_money(self):
         self.assertEqual(self.p2.name, "luigi")
         self.assertEqual(self.p2.age, 20)

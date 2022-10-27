@@ -6,7 +6,7 @@ class Person:
         self.money = money
 
     def celebrates_birthday(self):
-        self.age+= 1
+        self.age+= 3
 
     def earns_money(self, money_earned):
         if money_earned > 0:
